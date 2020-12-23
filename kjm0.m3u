@@ -1,423 +1,423 @@
 #EXTM3U
-#EXTINF:-1,TVP HD
+#EXTINF:-1,Polska:TVP HD
 http://88.156.21.109:8001/1:0:1:1138:2af8:13e:820000:0:0:0:
 
-#EXTINF:-1,TVP 1
+#EXTINF:-1,Polska:TVP 1
 http://88.156.21.109:8001/1:0:1:3adb:514:13e:820000:0:0:0:
 
-#EXTINF:-1,TVP 2
+#EXTINF:-1,Polska:TVP 2
 http://88.156.21.109:8001/1:0:1:c22:1e78:71:820000:0:0:0:
 
-#EXTINF:-1,TVP Seriale
+#EXTINF:-1,Polska:TVP Seriale
 http://88.156.21.109:8001/1:0:1:3d5c:2c88:13e:820000:0:0:0:
 
-#EXTINF:-1,TVP Kultura
+#EXTINF:-1,Polska:TVP Kultura
 http://88.156.21.109:8001/1:0:1:3d59:2c88:13e:820000:0:0:0:
 
-#EXTINF:-1,TVP Info
+#EXTINF:-1,Polska:TVP Info
 http://88.156.21.109:8001/1:0:1:1139:2af8:13e:820000:0:0:0:
 
-#EXTINF:-1,TVP Rozrywka
+#EXTINF:-1,Polska:TVP Rozrywka
 http://88.156.21.109:8001/1:0:1:4288:2BC0:13E:820000:0:0:0:
 
-#EXTINF:-1,Polsat
+#EXTINF:-1,Polska:Polsat
 http://88.156.21.109:8001/1:0:1:332d:3390:71:820000:0:0:0:
 
-#EXTINF:-1,Polsat 2
+#EXTINF:-1,Polska:Polsat 2
 http://88.156.21.109:8001/1:0:1:339a:3390:71:820000:0:0:0:
 
-#EXTINF:-1,TVN 24
+#EXTINF:-1,Polska:TVN 24
 http://88.156.21.109:8001/1:0:1:3dd2:640:13e:820000:0:0:0:
 
-#EXTINF:-1,Polsat News
+#EXTINF:-1,Polska:Polsat News
 http://88.156.21.109:8001/1:0:1:3399:3390:71:820000:0:0:0:
 
-#EXTINF:-1,Polsat News 2
+#EXTINF:-1,Polska:Polsat News 2
 http://88.156.21.109:8001/1:0:1:3333:3390:71:820000:0:0:0:
 
-#EXTINF:-1,POLSAT Viasat History
+#EXTINF:-1,Polska:POLSAT Viasat History
 http://88.156.21.109:8001/1:0:1:c20:1e78:71:820000:0:0:0:
 
-#EXTINF:-1,POLSAT Viasat Explore
+#EXTINF:-1,Polska:POLSAT Viasat Explore
 http://88.156.21.109:8001/1:0:1:1cca:1ce8:71:820000:0:0:0:
 
-#EXTINF:-1,POLSAT Viasat Nature
+#EXTINF:-1,Polska:POLSAT Viasat Nature
 http://88.156.21.109:8001/1:0:1:1ccd:1ce8:71:820000:0:0:0:
 
-#EXTINF:-1,Nowa TV
+#EXTINF:-1,Polska:Nowa TV
 http://88.156.21.109:8001/1:0:16:10E5:3E8:13E:820000:0:0:0:
 
-#EXTINF:-1,METRO
+#EXTINF:-1,Polska:METRO
 http://88.156.21.109:8001/1:0:1:4287:2BC0:13E:820000:0:0:0:
 
-#EXTINF:-1,WP
+#EXTINF:-1,Polska:WP
 http://88.156.21.109:8001/1:0:1:3d5a:2c88:13e:820000:0:0:0:
 
-#EXTINF:-1,ZOOM TV
+#EXTINF:-1,Polska:ZOOM TV
 http://88.156.21.109:8001/1:0:1:4291:2BC0:13E:820000:0:0:0:
 
-#EXTINF:-1,Polsat Film
+#EXTINF:-1,Polska:Polsat Film
 http://88.156.21.109:8001/1:0:1:3398:3390:71:820000:0:0:0:
 
-#EXTINF:-1,TVN Fabula
+#EXTINF:-1,Polska:TVN Fabula
 http://88.156.21.109:8001/1:0:1:3DD6:640:13E:820000:0:0:0:
 
-#EXTINF:-1,CANAL+
+#EXTINF:-1,Polska:CANAL+
 http://88.156.21.109:8001/1:0:1:32DC:190:13E:820000:0:0:0:
 
-#EXTINF:-1,CANAL+1
+#EXTINF:-1,Polska:CANAL+1
 http://88.156.21.109:8001/1:0:1:13ED:5DC:13E:820000:0:0:0:
 
-#EXTINF:-1,CANAL+ Family
+#EXTINF:-1,Polska:CANAL+ Family
 http://88.156.21.109:8001/1:0:19:377B:44C:13E:820000:0:0:0:
 
-#EXTINF:-1,CANAL+ Film
+#EXTINF:-1,Polska:CANAL+ Film
 http://88.156.21.109:8001/1:0:1:3779:44C:13E:820000:0:0:0:
 
-#EXTINF:-1,CANAL+ Seriale
+#EXTINF:-1,Polska:CANAL+ Seriale
 http://88.156.21.109:8001/1:0:19:3782:44C:13E:820000:0:0:0:
 
-#EXTINF:-1,HBO
+#EXTINF:-1,Polska:HBO
 http://88.156.21.109:8001/1:0:1:290e:1edc:71:820000:0:0:0:
 
-#EXTINF:-1,HBO2
+#EXTINF:-1,Polska:HBO2
 http://88.156.21.109:8001/1:0:1:e09:2d50:13e:820000:0:0:0:
 
-#EXTINF:-1,HBO3
+#EXTINF:-1,Polska:HBO3
 http://88.156.21.109:8001/1:0:1:e0a:2d50:13e:820000:0:0:0:
 
-#EXTINF:-1,Ale Kino+
+#EXTINF:-1,Polska:Ale Kino+
 http://88.156.21.109:8001/1:0:19:3781:44C:13E:820000:0:0:0:
 
-#EXTINF:-1,AMC
+#EXTINF:-1,Polska:AMC
 http://88.156.21.109:8001/1:0:1:3AB7:514:13E:820000:0:0:0:
 
-#EXTINF:-1,TNT
+#EXTINF:-1,Polska:TNT
 http://88.156.21.109:8001/1:0:1:2905:1EDC:71:820000:0:0:0:
 
-#EXTINF:-1,Paramount Channel
+#EXTINF:-1,Polska:Paramount Channel
 http://88.156.21.109:8001/1:0:1:D:1964:13E:820000:0:0:0:
 
-#EXTINF:-1,Kino Polska
+#EXTINF:-1,Polska:Kino Polska
 http://88.156.21.109:8001/1:0:1:1135:2af8:13e:820000:0:0:0:
 
-#EXTINF:-1,CBS Europa
+#EXTINF:-1,Polska:CBS Europa
 http://88.156.21.109:8001/1:0:1:290b:1edc:71:820000:0:0:0:
 
-#EXTINF:-1,Cinemax
+#EXTINF:-1,Polska:Cinemax
 http://88.156.21.109:8001/1:0:1:1136:2af8:13e:820000:0:0:0:
 
-#EXTINF:-1,Cinemax 2
+#EXTINF:-1,Polska:Cinemax 2
 http://88.156.21.109:8001/1:0:1:c26:1e78:71:820000:0:0:0:
 
-#EXTINF:-1,Comedy Central
+#EXTINF:-1,Polska:Comedy Central
 http://88.156.21.109:8001/1:0:1:c:1964:13e:820000:0:0:0:
 
-#EXTINF:-1,Filmbox
+#EXTINF:-1,Polska:Filmbox
 http://88.156.21.109:8001/1:0:1:3d61:2c88:13e:820000:0:0:0:
 
-#EXTINF:-1,FilmBox Action
+#EXTINF:-1,Polska:FilmBox Action
 http://88.156.21.109:8001/1:0:1:3d65:2c88:13e:820000:0:0:0:
 
-#EXTINF:-1,Filmbox Extra HD
+#EXTINF:-1,Polska:Filmbox Extra HD
 http://88.156.21.109:8001/1:0:1:3d68:2c88:13e:820000:0:0:0:
 
-#EXTINF:-1,Filmbox Family
+#EXTINF:-1,Polska:Filmbox Family
 http://88.156.21.109:8001/1:0:1:3d62:2c88:13e:820000:0:0:0:
 
-#EXTINF:-1,Filmbox Arthouse
+#EXTINF:-1,Polska:Filmbox Arthouse
 http://88.156.21.109:8001/1:0:1:428a:2bc0:13e:820000:0:0:0:
 
-#EXTINF:-1,FOX
+#EXTINF:-1,Polska:FOX
 http://88.156.21.109:8001/1:0:1:13f4:5dc:13e:820000:0:0:0:
 
-#EXTINF:-1,FOX Comedy
+#EXTINF:-1,Polska:FOX Comedy
 http://88.156.21.109:8001/1:0:1:1ccf:1ce8:71:820000:0:0:0:
 
-#EXTINF:-1,Scifi Universal
+#EXTINF:-1,Polska:Scifi Universal
 http://88.156.21.109:8001/1:0:1:3e20:2ee0:13e:820000:0:0:0:
 
-#EXTINF:-1,AXN
+#EXTINF:-1,Polska:AXN
 http://88.156.21.109:8001/1:0:1:c2a:1e78:71:820000:0:0:0:
 
-#EXTINF:-1,AXN
+#EXTINF:-1,Polska:AXN
 http://88.156.21.109:8001/1:0:1:1c96:1ce8:71:820000:0:0:0:
 
-#EXTINF:-1,AXN Black
+#EXTINF:-1,Polska:AXN Black
 http://88.156.21.109:8001/1:0:1:1c87:1ce8:71:820000:0:0:0:
 
-#EXTINF:-1,AXN Spin
+#EXTINF:-1,Polska:AXN Spin
 http://88.156.21.109:8001/1:0:1:3d5d:2c88:13e:820000:0:0:0:
 
-#EXTINF:-1,AXN White
+#EXTINF:-1,Polska:AXN White
 http://88.156.21.109:8001/1:0:1:1c86:1ce8:71:820000:0:0:0:
 
-#EXTINF:-1,13 Ulica
+#EXTINF:-1,Polska:13 Ulica
 http://88.156.21.109:8001/1:0:1:3e44:2ee0:13e:820000:0:0:0:
 
-#EXTINF:-1,Polsat Cafe
+#EXTINF:-1,Polska:Polsat Cafe
 http://88.156.21.109:8001/1:0:1:3396:3390:71:820000:0:0:0:
 
-#EXTINF:-1,Polsat Play
+#EXTINF:-1,Polska:Polsat Play
 http://88.156.21.109:8001/1:0:1:3392:3390:71:820000:0:0:0:
 
-#EXTINF:-1,TVN Style
+#EXTINF:-1,Polska:TVN Style
 http://88.156.21.109:8001/1:0:1:3dcf:640:13e:820000:0:0:0:
 
-#EXTINF:-1,ROMANCE TV
+#EXTINF:-1,Polska:ROMANCE TV
 http://88.156.21.109:8001/1:0:1:3adc:514:13e:820000:0:0:0:
 
-#EXTINF:-1,ROMANCE TV
+#EXTINF:-1,Polska:ROMANCE TV
 http://88.156.21.109:8001/1:0:1:3abe:514:13e:820000:0:0:0:
 
-#EXTINF:-1,Novela TV
+#EXTINF:-1,Polska:Novela TV
 http://88.156.21.109:8001/1:0:1:4240:3db8:13e:820000:0:0:0:
 
-#EXTINF:-1,Epic Drama
+#EXTINF:-1,Polska:Epic Drama
 http://88.156.21.109:8001/1:0:1:4290:2bc0:13e:820000:0:0:0:
 
-#EXTINF:-1,Polsat Romans
+#EXTINF:-1,Polska:Polsat Romans
 http://88.156.21.109:8001/1:0:1:1c85:1ce8:71:820000:0:0:0:
 
-#EXTINF:-1,Sundance TV
+#EXTINF:-1,Polska:Sundance TV
 http://88.156.21.109:8001/1:0:1:3e1d:2ee0:13e:820000:0:0:0:
 
-#EXTINF:-1,Adventure
+#EXTINF:-1,Polska:Adventure
 http://88.156.21.109:8001/1:0:19:10E9:3E8:13E:820000:0:0:0:
 
-#EXTINF:-1,Animal Planet
+#EXTINF:-1,Polska:Animal Planet
 http://88.156.21.109:8001/1:0:1:12c6:2e7c:13e:820000:0:0:0:
 
-#EXTINF:-1,BBC Brit
+#EXTINF:-1,Polska:BBC Brit
 http://88.156.21.109:8001/1:0:1:7d6:22c4:13e:820000:0:0:0:
 
-#EXTINF:-1,BBC Brit
+#EXTINF:-1,Polska:BBC Brit
 http://88.156.21.109:8001/1:0:1:7e0:22c4:13e:820000:0:0:0:
 
-#EXTINF:-1,BBC Earth
+#EXTINF:-1,Polska:BBC Earth
 http://88.156.21.109:8001/1:0:1:E08:2D50:13E:820000:0:0:0:
 
-#EXTINF:-1,BBC Earth
+#EXTINF:-1,Polska:BBC Earth
 http://88.156.21.109:8001/1:0:1:dd6:2d50:13e:820000:0:0:0:
 
-#EXTINF:-1,BBC
+#EXTINF:-1,Polska:BBC
 http://88.156.21.109:8001/1:0:1:E06:2D50:13E:820000:0:0:0:
 
-#EXTINF:-1,CANAL+ Discovery
+#EXTINF:-1,Polska:CANAL+ Discovery
 http://88.156.21.109:8001/1:0:1:3A99:514:13E:820000:0:0:0:
 
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1,Polska:Discovery Channel
 http://88.156.21.109:8001/1:0:1:3ab8:514:13e:820000:0:0:0:
 
-#EXTINF:-1,CI POLSAT
+#EXTINF:-1,Polska:CI POLSAT
 http://88.156.21.109:8001/1:0:1:1c9c:332c:13e:820000:0:0:0:
 
-#EXTINF:-1,CI POLSAT
+#EXTINF:-1,Polska:CI POLSAT
 http://88.156.21.109:8001/1:0:1:1c9d:332c:13e:820000:0:0:0:
 
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1,Polska:Discovery Channel
 http://88.156.21.109:8001/1:0:1:1c93:1ce8:71:820000:0:0:0:
 
-#EXTINF:-1,Discovery Historia
+#EXTINF:-1,Polska:Discovery Historia
 http://88.156.21.109:8001/1:0:1:db2:2d50:13e:820000:0:0:0:
 
-#EXTINF:-1,Discovery Life
+#EXTINF:-1,Polska:Discovery Life
 http://88.156.21.109:8001/1:0:1:3d56:2c88:13e:820000:0:0:0:
 
-#EXTINF:-1,Discovery Science
+#EXTINF:-1,Polska:Discovery Science
 http://88.156.21.109:8001/1:0:1:290d:1edc:71:820000:0:0:0:
 
-#EXTINF:-1,Discovery Science
+#EXTINF:-1,Polska:Discovery Science
 http://88.156.21.109:8001/1:0:1:1cc2:1ce8:71:820000:0:0:0:
 
-#EXTINF:-1,DTX
+#EXTINF:-1,Polska:DTX
 http://88.156.21.109:8001/1:0:1:3ace:514:13e:820000:0:0:0:
 
-#EXTINF:-1,H2
+#EXTINF:-1,Polska:H2
 http://88.156.21.109:8001/1:0:1:3e22:2ee0:13e:820000:0:0:0:
 
-#EXTINF:-1,HISTORY
+#EXTINF:-1,Polska:HISTORY
 http://88.156.21.109:8001/1:0:1:c2f:1e78:71:820000:0:0:0:
 
-#EXTINF:-1,HISTORY
+#EXTINF:-1,Polska:HISTORY
 http://88.156.21.109:8001/1:0:1:4284:2bc0:13e:820000:0:0:0:
 
-#EXTINF:-1,ID
+#EXTINF:-1,Polska:ID
 http://88.156.21.109:8001/1:0:1:3a9b:514:13e:820000:0:0:0:
 
-#EXTINF:-1,ID
+#EXTINF:-1,Polska:ID
 http://88.156.21.109:8001/1:0:1:1cc3:1ce8:71:820000:0:0:0:
 
-#EXTINF:-1,National Geographic Channel
+#EXTINF:-1,Polska:National Geographic Channel
 http://88.156.21.109:8001/1:0:1:32df:190:13e:820000:0:0:0:
 
-#EXTINF:-1,National Geographic Channel
+#EXTINF:-1,Polska:National Geographic Channel
 http://88.156.21.109:8001/1:0:1:3d5e:2c88:13e:820000:0:0:0:
 
-#EXTINF:-1,Nat Geo People
+#EXTINF:-1,Polska:Nat Geo People
 http://88.156.21.109:8001/1:0:1:2907:1edc:71:820000:0:0:0:
 
-#EXTINF:-1,Nat Geo Wild
+#EXTINF:-1,Polska:Nat Geo Wild
 http://88.156.21.109:8001/1:0:1:1137:2af8:13e:820000:0:0:0:
 
-#EXTINF:-1,Nat Geo Wild
+#EXTINF:-1,Polska:Nat Geo Wild
 http://88.156.21.109:8001/1:0:1:1c8b:1ce8:71:820000:0:0:0:
 
-#EXTINF:-1,Planete+
+#EXTINF:-1,Polska:Planete+
 http://88.156.21.109:8001/1:0:19:377E:44C:13E:820000:0:0:0:
 
-#EXTINF:-1,Planete+
+#EXTINF:-1,Polska:Planete+
 http://88.156.21.109:8001/1:0:19:37b0:44c:13e:820000:0:0:0:
 
-#EXTINF:-1,POLSAT Doku
+#EXTINF:-1,Polska:POLSAT Doku
 http://88.156.21.109:8001/1:0:1:c23:1e78:71:820000:0:0:0:
 
-#EXTINF:-1,Travel Channel
+#EXTINF:-1,Polska:Travel Channel
 http://88.156.21.109:8001/1:0:19:3dd8:640:13e:820000:0:0:0:
 
-#EXTINF:-1,BABY TV
+#EXTINF:-1,Polska:BABY TV
 http://88.156.21.109:8001/1:0:1:579:2DB4:13E:820000:0:0:0:
 
-#EXTINF:-1,Boomerang
+#EXTINF:-1,Polska:Boomerang
 http://88.156.21.109:8001/1:0:1:1CB8:1CE8:71:820000:0:0:0:
 
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1,Polska:Cartoon Network
 http://88.156.21.109:8001/1:0:1:291a:1edc:71:820000:0:0:0:
 
-#EXTINF:-1,Disney Channel
+#EXTINF:-1,Polska:Disney Channel
 http://88.156.21.109:8001/1:0:1:1cc5:1ce8:71:820000:0:0:0:
 
-#EXTINF:-1,Disney Junior
+#EXTINF:-1,Polska:Disney Junior
 http://88.156.21.109:8001/1:0:1:2938:1EDC:71:820000:0:0:0:
 
-#EXTINF:-1,JimJam Polsat
+#EXTINF:-1,Polska:JimJam Polsat
 http://88.156.21.109:8001/1:0:1:1CB7:1CE8:71:820000:0:0:0:
 
-#EXTINF:-1,MiniMini+
+#EXTINF:-1,Polska:MiniMini+
 http://88.156.21.109:8001/1:0:1:32FE:190:13E:820000:0:0:0:
 
-#EXTINF:-1,Nicktoons
+#EXTINF:-1,Polska:Nicktoons
 http://88.156.21.109:8001/1:0:1:e:1964:13e:820000:0:0:0:
 
-#EXTINF:-1,Teletoon
+#EXTINF:-1,Polska:Teletoon
 http://88.156.21.109:8001/1:0:19:377D:44C:13E:820000:0:0:0:
 
-#EXTINF:-1,Active Family
+#EXTINF:-1,Polska:Active Family
 http://88.156.21.109:8001/1:0:1:db7:2d50:13e:820000:0:0:0:
 
-#EXTINF:-1,BBC Lifestyle
+#EXTINF:-1,Polska:BBC Lifestyle
 http://88.156.21.109:8001/1:0:1:7db:22c4:13e:820000:0:0:0:
 
-#EXTINF:-1,CBS REALITY
+#EXTINF:-1,Polska:CBS REALITY
 http://88.156.21.109:8001/1:0:1:3d5b:2c88:13e:820000:0:0:0:
 
-#EXTINF:-1,Domo+
+#EXTINF:-1,Polska:Domo+
 http://88.156.21.109:8001/1:0:1:13EF:5DC:13E:820000:0:0:0:
 
-#EXTINF:-1,E! Entertainment
+#EXTINF:-1,Polska:E! Entertainment
 http://88.156.21.109:8001/1:0:1:3e1e:2ee0:13e:820000:0:0:0:
 
-#EXTINF:-1,Food Network
+#EXTINF:-1,Polska:Food Network
 http://88.156.21.109:8001/1:0:19:3DD9:640:13E:820000:0:0:0:
 
-#EXTINF:-1,Kuchnia+
+#EXTINF:-1,Polska:Kuchnia+
 http://88.156.21.109:8001/1:0:19:377F:44C:13E:820000:0:0:0:
 
-#EXTINF:-1,Lifetime
+#EXTINF:-1,Polska:Lifetime
 http://88.156.21.109:8001/1:0:1:3e27:2ee0:13e:820000:0:0:0:
 
-#EXTINF:-1,TLC
+#EXTINF:-1,Polska:TLC
 http://88.156.21.109:8001/1:0:1:3e21:2ee0:13e:820000:0:0:0:
 
-#EXTINF:-1,Republika TV
+#EXTINF:-1,Polska:Republika TV
 http://88.156.21.109:8001/1:0:1:4289:2bc0:13e:820000:0:0:0:
 
-#EXTINF:-1,Superstacja
+#EXTINF:-1,Polska:Superstacja
 http://88.156.21.109:8001/1:0:1:1cbe:1ce8:71:820000:0:0:0:
 
-#EXTINF:-1,TVN Meteo Active
+#EXTINF:-1,Polska:TVN Meteo Active
 http://88.156.21.109:8001/1:0:1:12e2:2e7c:13e:820000:0:0:0:
 
-#EXTINF:-1,Wellbeing Network
+#EXTINF:-1,Polska:Wellbeing Network
 http://88.156.21.109:8001/1:0:1:4277:2bc0:13e:820000:0:0:0:
 
-#EXTINF:-1,CANAL+ Sport
+#EXTINF:-1,Polska:CANAL+ Sport
 http://88.156.21.109:8001/1:0:1:32de:190:13e:820000:0:0:0:
 
-#EXTINF:-1,CANAL+ Sport 2
+#EXTINF:-1,Polska:CANAL+ Sport 2
 http://88.156.21.109:8001/1:0:1:13ee:5dc:13e:820000:0:0:0:
 
-#EXTINF:-1,CANAL+ NOW
+#EXTINF:-1,Polska:CANAL+ NOW
 http://88.156.21.109:8001/1:0:1:32cd:190:13e:820000:0:0:0:
 
-#EXTINF:-1,Eleven Sports 1
+#EXTINF:-1,Polska:Eleven Sports 1
 http://88.156.21.109:8001/1:0:1:13f3:5dc:13e:820000:0:0:0:
 
-#EXTINF:-1,Eleven Sports 2
+#EXTINF:-1,Polska:Eleven Sports 2
 http://88.156.21.109:8001/1:0:1:13f5:5dc:13e:820000:0:0:0:
 
-#EXTINF:-1,Eleven Sports 3
+#EXTINF:-1,Polska:Eleven Sports 3
 http://88.156.21.109:8001/1:0:1:13f8:5dc:13e:820000:0:0:0:
 
-#EXTINF:-1,Eleven Sports 4
+#EXTINF:-1,Polska:Eleven Sports 4
 http://88.156.21.109:8001/1:0:1:32ce:190:13e:820000:0:0:0:
 
-#EXTINF:-1,Eurosport
+#EXTINF:-1,Polska:Eurosport
 http://88.156.21.109:8001/1:0:19:3e25:2ee0:13e:820000:0:0:0:
 
-#EXTINF:-1,Eurosport 2
+#EXTINF:-1,Polska:Eurosport 2
 http://88.156.21.109:8001/1:0:19:290c:1edc:71:820000:0:0:0:
 
-#EXTINF:-1,Eurosport 3
+#EXTINF:-1,Polska:Eurosport 3
 http://88.156.21.109:8001/1:0:1:2908:1edc:71:820000:0:0:0:
 
-#EXTINF:-1,Eurosport 4
+#EXTINF:-1,Polska:Eurosport 4
 http://88.156.21.109:8001/1:0:1:32e1:190:13e:820000:0:0:0:
 
-#EXTINF:-1,Eurosport 4
+#EXTINF:-1,Polska:Eurosport 4
 http://88.156.21.109:8001/1:0:1:c30:1e78:71:820000:0:0:0:
 
-#EXTINF:-1,Eurosport 5
+#EXTINF:-1,Polska:Eurosport 5
 http://88.156.21.109:8001/1:0:1:db0:2d50:13e:820000:0:0:0:
 
-#EXTINF:-1,nSport
+#EXTINF:-1,Polska:nSport
 http://88.156.21.109:8001/1:0:1:3ab9:514:13e:820000:0:0:0:
 
-#EXTINF:-1,Polsat Sport
+#EXTINF:-1,Polska:Polsat Sport
 http://88.156.21.109:8001/1:0:1:c1d:1e78:71:820000:0:0:0:
 
-#EXTINF:-1,Polsat Sport Extra
+#EXTINF:-1,Polska:Polsat Sport Extra
 http://88.156.21.109:8001/1:0:1:3331:3390:71:820000:0:0:0:
 
-#EXTINF:-1,Polsat Sport Fight
+#EXTINF:-1,Polska:Polsat Sport Fight
 http://88.156.21.109:8001/1:0:1:2911:1edc:71:820000:0:0:0:
 
-#EXTINF:-1,Polsat Sport News
+#EXTINF:-1,Polska:Polsat Sport News
 http://88.156.21.109:8001/1:0:1:2913:1edc:71:820000:0:0:0:
 
-#EXTINF:-1,Polsat Sport Premium 1
+#EXTINF:-1,Polska:Polsat Sport Premium 1
 http://88.156.21.109:8001/1:0:1:709:32c8:13e:820000:0:0:0:
 
-#EXTINF:-1,Polsat Sport Premium 2
+#EXTINF:-1,Polska:Polsat Sport Premium 2
 http://88.156.21.109:8001/1:0:1:70a:32c8:13e:820000:0:0:0:
 
-#EXTINF:-1,Polsat Sport Premium 3
+#EXTINF:-1,Polska:Polsat Sport Premium 3
 http://88.156.21.109:8001/1:0:1:70b:32c8:13e:820000:0:0:0:
 
-#EXTINF:-1,Polsat Sport Premium 4
+#EXTINF:-1,Polska:Polsat Sport Premium 4
 http://88.156.21.109:8001/1:0:1:70c:32c8:13e:820000:0:0:0:
 
-#EXTINF:-1,Polsat Sport Premium 5
+#EXTINF:-1,Polska:Polsat Sport Premium 5
 http://88.156.21.109:8001/1:0:1:70d:32c8:13e:820000:0:0:0:
 
-#EXTINF:-1,Polsat Sport Premium 6
+#EXTINF:-1,Polska:Polsat Sport Premium 6
 http://88.156.21.109:8001/1:0:1:70e:32c8:13e:820000:0:0:0:
 
-#EXTINF:-1,Sportklub
+#EXTINF:-1,Polska:Sportklub
 http://88.156.21.109:8001/1:0:1:daf:2d50:13e:820000:0:0:0:
 
-#EXTINF:-1,TVP Sport
+#EXTINF:-1,Polska:TVP Sport
 http://88.156.21.109:8001/1:0:1:db1:2d50:13e:820000:0:0:0:
 
-#EXTINF:-1,KSW Polsat
+#EXTINF:-1,Polska:KSW Polsat
 http://88.156.21.109:8001/1:0:1:1c88:1ce8:71:820000:0:0:0:
